@@ -3,13 +3,13 @@
   "version": "0.0.2",
   "description": "An Ionic project",
   "devDependencies": {
-    "gulp": "^3.5.6",
+    "gulp": "^4.0.2",
     "gulp-clean-css": "^3.7.0",
     "gulp-rename": "^1.2.0",
     "gulp-sass": "^3.1.0"
   },
   "dependencies": {
-    "@ionic/v1-toolkit": "^1.0.22",
+    "@ionic/v1-toolkit": "^3.2.20",
     "cordova-android": "6.3.0",
     "cordova-plugin-device": "^1.1.7",
     "cordova-plugin-inappbrowser": "^3.1.0",
